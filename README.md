@@ -4,6 +4,8 @@ visa ter as rotinas de controle de um estoque, autenticação com JWT, ao usuár
 a Dashboard com Grafico em chart.js, poderá ter um CRUD de Produtos, e categorias, tela para efetuar vendas.
 
 
+
+
 Conceitos aprendidos neste curso<br>
 #Angular v15+<br>
 #Desenvolver um projeto completo com Angular v16<br>
@@ -39,6 +41,9 @@ Conceitos aprendidos neste curso<br>
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+
+
+
 
 ![Captura de tela 2024-11-17 134148](https://github.com/user-attachments/assets/23826aec-b6fe-45b3-a40e-70efe6de6a2a)
 ![Captura de tela 2024-11-17 134703](https://github.com/user-attachments/assets/afba0240-f48e-4d43-bafc-a91970cc9206)
